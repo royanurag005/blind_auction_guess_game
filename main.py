@@ -1,6 +1,6 @@
 from replit import clear
-#HINT: You can call clear() to clear the output in the console.
 import art
+
 print(art.logo)
 game_end=False
 store_dict={}
